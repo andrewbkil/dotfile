@@ -1,0 +1,54 @@
+{
+  "lastUpgradeScriptRun": "v3.6.0",
+  "appId": "88a4050d7cf123d11936c29681c2de178d62fe41",
+  "windowSettings": {
+    "x": 23,
+    "y": 23,
+    "width": 1344,
+    "height": 828,
+    "fullScreen": false,
+    "maximized": false
+  },
+  "registration": {
+    "email": "andrew@kiltech.io",
+    "name": "Andrew Kil",
+    "status": "activated",
+    "trialStatus": null,
+    "loginType": "github",
+    "providerToken": {
+      "access_token": "9833cc096716e5fbb87cbd927e35c7eeb0bb74d5",
+      "token_type": "bearer",
+      "scope": "admin:public_key,repo,user:email",
+      "expires_at": null
+    },
+    "date": "2017-05-27T08:47:33.445Z",
+    "EULA": {
+      "version": "1.5.0",
+      "status": "agree_verified"
+    }
+  },
+  "userId": "d1c3b54d-3d59-4692-8342-a8ab1dbacc4b",
+  "licensedFeatures": [
+    "pro",
+    "student"
+  ],
+  "optIntoAnalytics": false,
+  "newUserSetup": {
+    "askedAboutAnalytics": true
+  },
+  "hasSeenNewUserOnboarding": true,
+  "ui": {
+    "wideLayout": true,
+    "spellcheck": true
+  },
+  "userFeatures": [
+    {
+      "betaFeaturesEnabled": false,
+      "name": "gitkraken"
+    },
+    {
+      "betaFeaturesEnabled": true,
+      "name": "glo"
+    }
+  ]
+}

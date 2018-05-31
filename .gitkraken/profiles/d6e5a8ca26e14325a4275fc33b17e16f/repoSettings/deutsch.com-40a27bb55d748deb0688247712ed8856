@@ -1,0 +1,28 @@
+{
+  "remoteParents": {
+    "githubEnterprise": {
+      "Deutschla": {
+        "deutsch": {
+          "com": {
+            "hostingServiceType": "github",
+            "owner": "Deutschla",
+            "name": "deutsch.com"
+          }
+        }
+      }
+    },
+    "github": {
+      "Deutschla": {
+        "deutsch": {
+          "com": {
+            "hostingServiceType": "github",
+            "owner": "Deutschla",
+            "name": "deutsch.com"
+          }
+        }
+      }
+    }
+  },
+  "lastPrivateRepoPrompt": "Wed Sep 06 2017 14:54:44 GMT-0700 (PDT)",
+  "collapsedRemotes": []
+}

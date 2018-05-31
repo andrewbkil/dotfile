@@ -1,0 +1,4 @@
+pane	cmab	1	:d-c	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:d-c	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	docker-compose	:docker-compose up
+window	cmab	1	1	:*	8b8f,123x53,0,0[123x26,0,0,0,123x26,0,27,1]
+state	cmab	

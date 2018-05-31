@@ -1,0 +1,5 @@
+pane	ff	1	:..s/fosterfarms	1	:*	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+pane	ff	1	:..s/fosterfarms	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	bash	:bash -l
+pane	ff	1	:..s/fosterfarms	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	zsh	:
+window	ff	1	1	:*	0635,70x53,0,0[70x24,0,0,0,70x14,0,25,1,70x13,0,40,2]
+state	ff	

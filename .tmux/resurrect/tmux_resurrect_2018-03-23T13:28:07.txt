@@ -1,0 +1,6 @@
+pane	3	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW-CQ/crx-quickstart/bin	0	zsh	:
+pane	3	1	:../vwcom-master	1	:*	2	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	main	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+window	3	1	1	:*	690a,70x43,0,0[70x21,0,0,1,70x21,0,22,3]
+window	main	1	1	:*	b41f,70x53,0,0,2
+state	3	main

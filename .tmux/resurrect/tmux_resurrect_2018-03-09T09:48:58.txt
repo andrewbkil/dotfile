@@ -1,0 +1,8 @@
+pane	37	1	:reattach-to-user-namespace	1	:*	1	:/Users/andrew.kil	1	zsh	:/bin/bash /usr/local/Homebrew/Library/Homebrew/brew.sh --prefix homebrew/php/php70
+pane	VWCOM-3531	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	0	zsh	:
+pane	VWCOM-3531	1	:..ents/Projects	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3531-SSE_Offer	1	zsh	:
+pane	default	1	:~/.tmux	1	:*	1	:/Users/andrew.kil/.tmux	1	zsh	:
+window	37	1	1	:*	5962,80x24,0,0,51
+window	VWCOM-3531	1	1	:*	8dc9,70x43,0,0[70x21,0,0,32,70x21,0,22,36]
+window	default	1	1	:*	da48,70x53,0,0,29
+state	37	

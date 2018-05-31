@@ -1,0 +1,29 @@
+{
+  "userEmail": "andrew@kiltech.io",
+  "userName": "Andrew Kil",
+  "defaultTerminal": "iTerm2",
+  "profileIcon": "Pro-Keif.png",
+  "profileName": "KIL",
+  "services": {
+    "githubEnterprise": {
+      "url": "https://github.com/Deutschla"
+    }
+  },
+  "lastOpenedRepository": "/Users/andrew.kil/Documents/Projects/CMAB/cmab/.git",
+  "layout": {
+    "DetailPanel": {
+      "width": 400,
+      "height": 386
+    },
+    "RefPanel": {
+      "open": true
+    }
+  },
+  "actions": {
+    "commit": {
+      "ignoreWhiteSpace": false
+    }
+  },
+  "diffTool": "use-configured-merge-tool",
+  "favoriteRepos": []
+}

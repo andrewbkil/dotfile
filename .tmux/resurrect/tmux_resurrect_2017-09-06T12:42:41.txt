@@ -1,0 +1,7 @@
+pane	ak	1	:..ancedrr/arr-1	1	:*	1	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	0	zsh	:
+pane	ak	1	:..ancedrr/arr-1	1	:*	2	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	1	node	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js run test:watch
+node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js run test:watch
+pane	cmab	1	:..s/deutsch.com	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch.com	1	zsh	:
+window	ak	1	1	:*	37fd,70x41,0,0[70x20,0,0,0,70x20,0,21,1]
+window	cmab	1	1	:*	aa1f,70x41,0,0,2
+state	cmab	

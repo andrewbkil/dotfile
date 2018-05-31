@@ -1,0 +1,32 @@
+pane	0	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	10	1	:..s/thorn/email	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/email	1	zsh	:
+pane	11	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	12	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	13	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	14	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	15	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	6	1	:..s/thorn/email	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/email	1	zsh	:
+pane	7	1	:..2980-JettaNCS	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS	1	zsh	:
+pane	8	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	9	1	:..1-SSE_Generic	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3461-SSE_Generic	0	zsh	:
+pane	9	1	:..1-SSE_Generic	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3057-Dec2017Offer	1	zsh	:
+pane	VWCOM-3271	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	warrantyMasthead	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	0	1	1	:*	b65d,46x53,0,0,0
+window	10	1	1	:*	b65e,46x53,0,0,1
+window	11	1	1	:*	b65f,46x53,0,0,2
+window	12	1	1	:*	b660,46x53,0,0,3
+window	13	1	1	:*	b661,46x53,0,0,4
+window	14	1	1	:*	b662,46x53,0,0,5
+window	15	1	1	:*	b663,46x53,0,0,6
+window	6	1	1	:*	b664,46x53,0,0,7
+window	7	1	1	:*	b665,46x53,0,0,8
+window	8	1	1	:*	b666,46x53,0,0,9
+window	9	1	1	:*	06ca,46x53,0,0[46x26,0,0,10,46x26,0,27,11]
+window	VWCOM-3271	1	1	:*	5b61,46x53,0,0,12
+window	default	1	1	:*	5b62,46x53,0,0,13
+window	mobileVid	1	1	:*	5b63,46x53,0,0,14
+window	warrantyMasthead	1	1	:*	5b64,46x53,0,0,15
+state	9	warrantyMasthead

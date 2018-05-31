@@ -1,0 +1,9 @@
+pane	9	1	:..emailTemplate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate	1	zsh	:
+pane	VWCOM-3531	1	:..pad-app-ionic	1	:*Z	1	:/Users/andrew.kil/Documents/Projects	0	zsh	:
+pane	VWCOM-3531	1	:..pad-app-ionic	1	:*Z	2	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic	1	zsh	:
+pane	default	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+pane	default	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	9	1	1	:*	5962,80x24,0,0,13
+window	VWCOM-3531	1	1	:*Z	6123,80x24,0,0[80x12,0,0,9,80x11,0,13,10]
+window	default	1	1	:*	86cc,46x53,0,0[46x26,0,0,11,46x26,0,27,12]
+state	default	

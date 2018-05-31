@@ -1,0 +1,8 @@
+pane	VWCOM-3271	1	:..ta-PostLaunch	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3271-NCSJetta-PostLaunch	0	zsh	:
+pane	VWCOM-3271	1	:..ta-PostLaunch	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3271-NCSJetta-PostLaunch	1	zsh	:
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+window	VWCOM-3271	1	1	:*	3445,70x53,0,0[70x26,0,0,21,70x26,0,27,22]
+window	default	1	1	:*	5962,80x24,0,0,13
+window	mobileVid	1	1	:*	5966,80x24,0,0,17
+state	VWCOM-3271	

@@ -1,0 +1,15 @@
+pane	ak	1	:..ktop/ak/a-r-r	0	:-	1	:/Users/andrew.kil/Desktop/ak/a-r-r	1	zsh	:
+pane	ak	2	:..ktop/ak/a-r-r	0	:	1	:/Users/andrew.kil/Desktop/ak/a-r-r	1	zsh	:
+pane	ak	3	:..ktop/ak/a-r-r	1	:*	1	:/Users/andrew.kil/Desktop/ak/a-r-r	1	zsh	:
+pane	ddc	1	:..sch.com/stack	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch.com	0	zsh	:
+pane	ddc	1	:..sch.com/stack	1	:*	2	:/Users/andrew.kil/Documents/Projects/deutsch.com/deutsch	0	zsh	:
+pane	ddc	1	:..sch.com/stack	1	:*	3	:/Users/andrew.kil/Documents/Projects/deutsch.com/stack	1	zsh	:
+pane	ff	1	:..s/fosterfarms	1	:*	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+pane	ff	1	:..s/fosterfarms	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	node	:grunt 
+pane	ff	1	:..s/fosterfarms	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+window	ak	1	0	:-	b423,70x53,0,0,6
+window	ak	2	0	:	b424,70x53,0,0,7
+window	ak	3	1	:*	b425,70x53,0,0,8
+window	ddc	1	1	:*	9fa0,70x53,0,0[70x22,0,0,3,70x15,0,23,4,70x14,0,39,5]
+window	ff	1	1	:*	1d38,70x53,0,0[70x26,0,0,0,70x13,0,27,1,70x12,0,41,2]
+state	ak	

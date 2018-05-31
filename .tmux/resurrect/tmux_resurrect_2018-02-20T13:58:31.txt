@@ -1,0 +1,14 @@
+pane	0	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	15	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	VWCOM-3271	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	VWCOM-3271	1	:..w-ipad-events	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	0	zsh	:
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	warrantyMasthead	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	0	1	1	:*	b41d,70x53,0,0,0
+window	15	1	1	:*	b41e,70x53,0,0,1
+window	VWCOM-3271	1	1	:*	5e11,70x53,0,0[70x26,0,0,2,70x26,0,27,3]
+window	default	1	1	:*	b421,70x53,0,0,4
+window	mobileVid	1	1	:*	b422,70x53,0,0,5
+window	warrantyMasthead	1	1	:*	b423,70x53,0,0,6
+state	VWCOM-3271	warrantyMasthead

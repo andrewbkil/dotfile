@@ -1,0 +1,5 @@
+pane	1	1	:vim	1	:*	1	:/Users/andrew.kil	1	nvim	:nvim /Users/andrew.kil/.zshrc
+pane	main	1	:..om/vwcom-fork	1	:*	1	:/Users/andrew.kil/Documents/Projects/vwcom/vwcom-fork	1	zsh	:
+window	1	1	1	:*	bd01,166x53,0,0,4
+window	main	1	1	:*	b420,70x53,0,0,3
+state	main	

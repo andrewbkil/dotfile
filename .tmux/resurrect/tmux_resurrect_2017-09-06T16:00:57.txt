@@ -1,0 +1,6 @@
+pane	ak	1	:..drr/arr-2-hoc	1	:*	1	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-2-hoc	1	zsh	:
+pane	ak	1	:..drr/arr-2-hoc	1	:*	2	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-2-hoc	0	zsh	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js run test:watch
+pane	cmab	1	:..s/deutsch.com	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch.com	1	zsh	:
+window	ak	1	1	:*	2dfc,68x53,0,0[68x26,0,0,0,68x26,0,27,1]
+window	cmab	1	1	:*	b41f,70x53,0,0,2
+state	ak	

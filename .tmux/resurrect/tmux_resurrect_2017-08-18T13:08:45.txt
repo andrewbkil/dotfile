@@ -1,0 +1,9 @@
+pane	ddc	1	:git	1	:*Z	1	:/Users/andrew.kil/Documents/Projects/deutsch.com	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git lola
+pane	ddc	1	:git	1	:*Z	2	:/Users/andrew.kil/Documents/Projects/deutsch.com/deutsch	0	node	:gulp 
+pane	ddc	1	:git	1	:*Z	3	:/Users/andrew.kil/Documents/Projects/deutsch.com/stack	0	vagrant	:vagrant ssh
+pane	ff	1	:grunt	1	:*	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	zsh	:
+pane	ff	1	:grunt	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	node	:grunt 
+pane	ff	1	:grunt	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	vagrant	:vagrant ssh
+window	ddc	1	1	:*Z	fccf,166x53,0,0[166x22,0,0,3,166x15,0,23,4,166x14,0,39,5]
+window	ff	1	1	:*	1d38,70x53,0,0[70x26,0,0,0,70x13,0,27,1,70x12,0,41,2]
+state	ddc	

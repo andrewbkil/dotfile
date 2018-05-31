@@ -1,0 +1,8 @@
+pane	1	1	:vim	1	:*	1	:/Users/andrew.kil	1	nvim	:nvim /Users/andrew.kil/.zshrc
+pane	ipad-events-app	1	:ionic	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/app	1	node	:ionic     
+pane	main	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/vwcom/vwcom-master	1	zsh	:
+pane	main	1	:..uickstart/bin	1	:*	2	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+window	1	1	1	:*	bd01,166x53,0,0,4
+window	ipad-events-app	1	1	:*	b663,88x43,0,0,6
+window	main	1	1	:*	6913,70x43,0,0[70x21,0,0,3,70x21,0,22,5]
+state	ipad-events-app	

@@ -1,0 +1,24 @@
+pane	3708	1	:..s/VWCOM/vwCOM	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	1	zsh	:
+pane	3708	1	:..s/VWCOM/vwCOM	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	0	sh	:sh ./faster.sh .
+pane	3708	1	:..s/VWCOM/vwCOM	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	3811	1	:..s/VWCOM/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3708-GolfR-ColorEnhancement	0	zsh	:
+pane	3811	1	:..s/VWCOM/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	1	zsh	:
+pane	3811	1	:..s/VWCOM/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	advancedrr	1	:..SimpleStarter	1	:*	1	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	0	zsh	:
+pane	advancedrr	1	:..SimpleStarter	1	:*	2	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	1	zsh	:
+pane	bolt	1	:..olt-challenge	1	:*	1	:/Users/andrew.kil/Desktop/ak/bolt-challenge	1	zsh	:
+pane	bolt	1	:..olt-challenge	1	:*	2	:/Users/andrew.kil/Desktop/ak/bolt-challenge	0	zsh	:
+pane	ea	1	:gulp	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	node	:gulp  
+pane	email	1	:..R-86-Military	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-86-Military	1	zsh	:
+pane	email	1	:..R-86-Military	1	:*	2	:/Users/andrew.kil	0	zsh	:
+pane	hl	1	:..helpful-links	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch-hl/deutsch-helpful-links	1	zsh	:
+pane	main	1	:vim	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	nvim	:nvim /Users/andrew.kil/.zshrc
+window	3708	1	1	:*	fe5a,70x53,0,0[70x25,0,0,1,70x13,0,26,2,70x13,0,40,3]
+window	3811	1	1	:*	87c9,70x53,0,0[70x25,0,0,4,70x12,0,26,5,70x14,0,39,6]
+window	advancedrr	1	1	:*	de27,70x53,0,0[70x26,0,0,7,70x26,0,27,8]
+window	bolt	1	1	:*	af5c,70x53,0,0[70x26,0,0,9,70x26,0,27,10]
+window	ea	1	1	:*	5a44,70x53,0,0,15
+window	email	1	1	:*	1b44,70x53,0,0[70x28,0,0,11,70x24,0,29,12]
+window	hl	1	1	:*	5a42,70x53,0,0,13
+window	main	1	1	:*	5963,80x24,0,0,14
+state	main	

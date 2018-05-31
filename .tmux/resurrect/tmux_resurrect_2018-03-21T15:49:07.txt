@@ -1,0 +1,3 @@
+pane	main	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	main	1	1	:*	b01e,70x52,0,0,1
+state	main	

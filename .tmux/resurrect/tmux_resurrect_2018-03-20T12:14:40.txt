@@ -1,0 +1,11 @@
+pane	0	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	14	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	14	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	15	1	:..pad-app-ionic	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic	1	zsh	:
+pane	default	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	default	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	0	1	1	:*	b25d,80x24,0,0,0
+window	14	1	1	:*	419a,80x24,0,0[80x12,0,0,1,80x11,0,13,2]
+window	15	1	1	:*	b420,70x53,0,0,3
+window	default	1	1	:*	92a7,80x24,0,0[80x11,0,0,4,80x12,0,12,5]
+state	15	default

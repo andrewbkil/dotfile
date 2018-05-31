@@ -1,0 +1,4 @@
+pane	ak	1	:..ancedrr/arr-1	1	:*	1	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	1	zsh	:
+pane	ak	1	:..ancedrr/arr-1	1	:*	2	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	0	zsh	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js run test:watch
+window	ak	1	1	:*	5e08,70x53,0,0[70x26,0,0,0,70x26,0,27,1]
+state	ak	

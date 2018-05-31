@@ -1,0 +1,18 @@
+pane	email	1	:~	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	0	zsh	:
+pane	email	1	:~	1	:*	2	:/Users/andrew.kil	1	zsh	:
+pane	main	1	:..gineLearnMore	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	1	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	0	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	1	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	0	zsh	:
+pane	vwcom-3759	1	:..asthead/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3759-PassatHPmasthead/vwcom	1	zsh	:
+pane	vwcom-3759	1	:..asthead/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3759-PassatHPmasthead/vwcom	0	sh	:sh ./faster.sh .
+pane	vwcom-3759	1	:..asthead/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+window	email	1	1	:*	9a2a,52x43,0,0[52x22,0,0,1,52x20,0,23,2]
+window	main	1	1	:*	b2a0,52x43,0,0,3
+window	vwcom-3593	1	1	:*	dbb9,52x43,0,0[52x23,0,0,4,52x9,0,24,5,52x9,0,34,6]
+window	vwcom-3722	1	1	:*	c9fa,52x43,0,0[52x22,0,0,7,52x10,0,23,8,52x9,0,34,9]
+window	vwcom-3759	1	1	:*	9d47,70x53,0,0[70x26,0,0,10,70x12,0,27,11,70x13,0,40,12]
+state	vwcom-3759	vwcom-3722

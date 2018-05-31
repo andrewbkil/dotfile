@@ -1,0 +1,4 @@
+pane	nwr	1	:..esktop/ak/nwr	1	:*	1	:/Users/andrew.kil/Desktop/ak/nwr	0	zsh	:
+pane	nwr	1	:..esktop/ak/nwr	1	:*	2	:/Users/andrew.kil/Desktop/ak/nwr	1	zsh	:
+window	nwr	1	1	:*	8a11,88x41,0,0[88x20,0,0,0,88x20,0,21,1]
+state	nwr	

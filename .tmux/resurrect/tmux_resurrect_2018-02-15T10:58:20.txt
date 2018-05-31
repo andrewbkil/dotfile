@@ -1,0 +1,7 @@
+pane	VWCOM-3271=	1	:reattach-to-user-namespace	1	:*	1	:/Users/andrew.kil	1	zsh	:/bin/bash /usr/local/Homebrew/Library/Homebrew/brew.sh --prefix homebrew/php/php70
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+window	VWCOM-3271=	1	1	:*	da3f,70x53,0,0,20
+window	default	1	1	:*	5962,80x24,0,0,13
+window	mobileVid	1	1	:*	5966,80x24,0,0,17
+state	VWCOM-3271=	

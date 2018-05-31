@@ -1,0 +1,9 @@
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	3	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	zsh	:
+pane	deutschcom	1	:vagrant	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch.com/deutsch	0	bash	:bash -l
+pane	deutschcom	1	:vagrant	1	:*	2	:/Users/andrew.kil/Documents/Projects/deutsch.com/deutsch	0	bash	:bash -l
+pane	deutschcom	1	:vagrant	1	:*	3	:/Users/andrew.kil/Documents/Projects/deutsch.com/stack	1	vagrant	:vagrant halt
+window	cmab	1	1	:*	6312,80x24,0,0[80x16,0,0,3,80x3,0,17,4,80x3,0,21,5]
+window	deutschcom	1	1	:*	c530,70x53,0,0[70x21,0,0,0,70x18,0,22,1,70x12,0,41,2]
+state	deutschcom	

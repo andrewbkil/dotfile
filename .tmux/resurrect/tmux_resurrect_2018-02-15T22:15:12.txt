@@ -1,0 +1,12 @@
+pane	15	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	VWCOM-3271	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	0	zsh	:
+pane	VWCOM-3271	1	:..-mobileUpdate	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS	1	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	warrantyMasthead	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	15	1	1	:*	d962,80x24,0,0,23
+window	VWCOM-3271	1	1	:*	4dc4,70x43,0,0[70x21,0,0,21,70x21,0,22,22]
+window	default	1	1	:*	5962,80x24,0,0,13
+window	mobileVid	1	1	:*	5966,80x24,0,0,17
+window	warrantyMasthead	1	1	:*	d943,70x43,0,0,24
+state	VWCOM-3271	

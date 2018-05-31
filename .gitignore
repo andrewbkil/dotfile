@@ -1,0 +1,29 @@
+# *BlackList everything (nonrecursive)
+/*  
+
+# *WhiteLists Dotfiles
+!.gitignore
+!.gitconfig
+!.bash_profile
+!.bashrc
+!.editorconfig
+!.git-completion.bash
+!.git-prompt.sh
+!.iterm2_shell_integration.oh-my-zsh
+!.tmux.conf
+!.vimrc
+!.zshrc
+!z.sh
+
+# *WhiteLists Folders
+!.gitkraken/
+!.oh-my-zsh/
+!.iterm2/
+!.tmux/
+!.vim/
+!.vim.plugged/
+# Ignore all files named .DS_Store or ending with .log
+**/.DS_Store
+**.log
+# ...even if they are in subdirectories
+# !*/

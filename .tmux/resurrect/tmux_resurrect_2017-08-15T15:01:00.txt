@@ -1,0 +1,12 @@
+pane	ak	1	:..rver-template	1	:*	1	:/Users/andrew.kil/Desktop/ak/the_complete_react_web_app/basic-server-template	1	zsh	:
+pane	ak	1	:..rver-template	1	:*	2	:/Users/andrew.kil/Desktop/ak/the_complete_react_web_app/basic-server-template	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	3	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	ff	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	ff	1	:~/.ssh	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	node	:bash -l
+pane	ff	1	:~/.ssh	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	vagrant	:vagrant ssh
+window	ak	1	1	:*	3818,70x41,0,0[70x20,0,0,6,70x20,0,21,7]
+window	cmab	1	1	:*	1d38,70x53,0,0[70x26,0,0,0,70x13,0,27,1,70x12,0,41,2]
+window	ff	1	1	:*	5123,124x41,0,0[124x21,0,0,3,124x9,0,22,4,124x9,0,32,5]
+state	ff	

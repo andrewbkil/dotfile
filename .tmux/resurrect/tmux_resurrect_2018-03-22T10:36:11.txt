@@ -1,0 +1,5 @@
+pane	0	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	main	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW-CQ/crx-quickstart/bin	1	zsh	:
+window	0	1	1	:*	b01d,70x52,0,0,0
+window	main	1	1	:*	b01e,70x52,0,0,1
+state	main	0

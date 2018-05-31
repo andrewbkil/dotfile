@@ -1,0 +1,6 @@
+pane	3	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	3	1	:..w-ipad-events	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic	0	zsh	:
+pane	main	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	3	1	1	:*	6b2a,52x43,0,0[52x21,0,0,1,52x21,0,22,2]
+window	main	1	1	:*	b2a0,52x43,0,0,3
+state	3	

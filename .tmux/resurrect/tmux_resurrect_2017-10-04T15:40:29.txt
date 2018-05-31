@@ -1,0 +1,4 @@
+pane	hl	1	:node	1	:*	1	:/Users/andrew.kil/Documents/Projects/helpfullink_rebuild/helpfullink-rebuild	1	node	:node app.js
+pane	hl	1	:node	1	:*	2	:/Users/andrew.kil/Documents/Projects/helpfullink_rebuild/helpfullink-rebuild	0	mongod	:mongod
+window	hl	1	1	:*	5e08,70x53,0,0[70x26,0,0,0,70x26,0,27,1]
+state	hl	

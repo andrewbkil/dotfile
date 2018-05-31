@@ -1,0 +1,5 @@
+pane	ff	1	:bash	1	:*Z	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+pane	ff	1	:bash	1	:*Z	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	bash	:bash -l
+pane	ff	1	:bash	1	:*Z	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	vagrant	:vagrant ssh
+window	ff	1	1	:*Z	0779,52x41,0,0[52x20,0,0,0,52x10,0,21,1,52x9,0,32,2]
+state	ff	

@@ -1,0 +1,10 @@
+pane	3265	1	:yarn	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	1	zsh	:
+pane	3265	1	:yarn	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	0	node	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js watch
+pane	grid	1	:yarn	1	:*	1	:/Users/andrew.kil/Desktop/ak/css-grid	0	zsh	:
+pane	grid	1	:yarn	1	:*	2	:/Users/andrew.kil/Desktop/ak/css-grid	1	zsh	:
+pane	grid	1	:yarn	1	:*	3	:/Users/andrew.kil/Desktop/ak/css-grid	0	node	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js start
+pane	mobileVid	1	:yarn	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	node	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js watch
+window	3265	1	1	:*	d11e,70x53,0,0[70x23,0,0,5,70x29,0,24,7]
+window	grid	1	1	:*	c42c,70x43,0,0[70x22,0,0,1,70x8,0,23,2,70x11,0,32,3]
+window	mobileVid	1	1	:*	563f,70x51,0,0,10
+state	mobileVid	

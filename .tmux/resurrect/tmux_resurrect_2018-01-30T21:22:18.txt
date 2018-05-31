@@ -1,0 +1,16 @@
+pane	3265	1	:..ds/VWCOM-3265	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	1	zsh	:
+pane	3265	1	:..ds/VWCOM-3265	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	0	zsh	:
+pane	5	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	default	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	grid	1	:yarn	1	:*	1	:/Users/andrew.kil/Desktop/ak/css-grid	0	zsh	:
+pane	grid	1	:yarn	1	:*	2	:/Users/andrew.kil/Desktop/ak/css-grid	0	zsh	:
+pane	grid	1	:yarn	1	:*	3	:/Users/andrew.kil/Desktop/ak/css-grid	1	node	:node /usr/local/Cellar/yarn/0.27.5_1/libexec/bin/yarn.js start
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	thorn-email	1	:yarn	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/sass-email	1	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js build email
+window	3265	1	1	:*	d0ef,145x51,0,0[145x22,0,0,1,145x28,0,23,2]
+window	5	1	1	:*	b405,145x51,0,0,8
+window	default	1	1	:*	b264,80x24,0,0,7
+window	grid	1	1	:*	0688,145x51,0,0[145x24,0,0,3,145x12,0,25,4,145x13,0,38,5]
+window	mobileVid	1	1	:*	b403,145x51,0,0,6
+window	thorn-email	1	1	:*	5a42,70x53,0,0,13
+state	thorn-email	

@@ -1,0 +1,6 @@
+pane	3	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master/vwcom-view	0	zsh	:
+pane	3	1	:..uickstart/bin	1	:*	2	:/Users/andrew.kil/Documents/Projects/VW-CQ/crx-quickstart/bin	1	zsh	:
+pane	main	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	3	1	1	:*	690a,70x43,0,0[70x21,0,0,1,70x21,0,22,3]
+window	main	1	1	:*	b29f,52x43,0,0,2
+state	3	main

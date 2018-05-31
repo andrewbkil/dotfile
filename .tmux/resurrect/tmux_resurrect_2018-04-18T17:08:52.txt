@@ -1,0 +1,19 @@
+pane	cq-packages	1	:..es/vwcom-3640	1	:*	1	:/Users/andrew.kil/Documents/Projects/cq-packages/vwcom-3640	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_NonSales	0	zsh	:
+pane	main	1	:..rojects/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	1	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	1	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	0	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	3	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	0	zsh	:
+window	cq-packages	1	1	:*	b29e,52x43,0,0,1
+window	email	1	1	:*	5e11,70x53,0,0[70x26,0,0,2,70x26,0,27,3]
+window	main	1	1	:*	b261,80x24,0,0,4
+window	vw-ea	1	1	:*	6b3c,52x43,0,0[52x21,0,0,5,52x21,0,22,6]
+window	vwcom-3593	1	1	:*	8023,68x53,0,0[68x26,0,0,10,68x13,0,27,11,68x12,0,41,12]
+window	vwcom-3675	1	1	:*	9e37,70x53,0,0[70x26,0,0,7,70x13,0,27,8,70x12,0,41,9]
+state	vwcom-3593	

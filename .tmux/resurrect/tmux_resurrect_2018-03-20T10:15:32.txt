@@ -1,0 +1,9 @@
+pane	14	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+pane	14	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	15	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	default	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	default	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	14	1	1	:*	687f,68x53,0,0[68x26,0,0,12,68x26,0,27,13]
+window	15	1	1	:*	5a43,70x53,0,0,14
+window	default	1	1	:*	97da,70x53,0,0[70x25,0,0,8,70x27,0,26,10]
+state	15	

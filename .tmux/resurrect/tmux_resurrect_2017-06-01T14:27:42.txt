@@ -1,0 +1,9 @@
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	zsh	:bash -l
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	3	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	ff	1	:vagrant	1	:*	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+pane	ff	1	:vagrant	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	bash	:bash -l
+pane	ff	1	:vagrant	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	vagrant	:bash -l
+window	cmab	1	1	:*	be86,62x48,0,0[62x19,0,0,0,62x16,0,20,4,62x11,0,37,5]
+window	ff	1	1	:*	c1e9,80x24,0,0[80x10,0,0,1,80x9,0,11,2,80x3,0,21,3]
+state	cmab	

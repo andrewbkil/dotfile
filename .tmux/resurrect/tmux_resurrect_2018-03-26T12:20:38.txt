@@ -1,0 +1,6 @@
+pane	1	1	:vim	1	:*	1	:/Users/andrew.kil	1	nvim	:nvim /Users/andrew.kil/.zshrc
+pane	main	1	:sh	1	:*	1	:/Users/andrew.kil/Documents/Projects/vwcom/vwcom-master	1	sh	:sh faster.sh .
+pane	main	1	:sh	1	:*	2	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+window	1	1	1	:*	bd01,166x53,0,0,4
+window	main	1	1	:*	5e16,70x53,0,0[70x26,0,0,3,70x26,0,27,5]
+state	main	

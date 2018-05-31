@@ -1,0 +1,8 @@
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	thorn-email	1	:..s/thorn/email	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/email	1	zsh	:
+pane	thorn-email	1	:..s/thorn/email	1	:*	2	:/Users/andrew.kil/Documents/Projects/thorn/email	0	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+window	default	1	1	:*	5962,80x24,0,0,13
+window	mobileVid	1	1	:*	5966,80x24,0,0,17
+window	thorn-email	1	1	:*	7455,70x53,0,0[70x26,0,0,18,70x26,0,27,19]
+state	thorn-email	

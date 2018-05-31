@@ -1,0 +1,19 @@
+pane	deutsch-hl	1	:..helpful-links	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch-hl/deutsch-helpful-links	1	zsh	:
+pane	deutsch-hl	1	:..helpful-links	1	:*	2	:/Users/andrew.kil/Documents/Projects/deutsch-hl/deutsch-helpful-links	0	zsh	:
+pane	email	1	:..1-MemorialDay	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-92-Jetta	1	zsh	:
+pane	email	1	:..1-MemorialDay	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay	0	zsh	:
+pane	ipad-events-app	1	:..app-ionic/app	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/app	1	zsh	:
+pane	main	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vwcom-3636	1	:..vicesMasthead	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3636-FinancialServicesMasthead	1	zsh	:
+pane	vwcom-3639	1	:..ArticleUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3639-NewsroomArticleUpdate	1	zsh	:
+pane	vwcom-3639	1	:..ArticleUpdate	1	:*	2	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+window	deutsch-hl	1	1	:*	de0c,70x53,0,0[70x26,0,0,1,70x26,0,27,2]
+window	email	1	1	:*	de15,70x53,0,0[70x26,0,0,3,70x26,0,27,4]
+window	ipad-events-app	1	1	:*	b422,70x53,0,0,5
+window	main	1	1	:*	b263,80x24,0,0,6
+window	vw-ea	1	1	:*	de27,70x53,0,0[70x26,0,0,7,70x26,0,27,8]
+window	vwcom-3636	1	1	:*	5a40,70x53,0,0,11
+window	vwcom-3639	1	1	:*	af5c,70x53,0,0[70x26,0,0,9,70x26,0,27,10]
+state	vwcom-3636	

@@ -1,0 +1,18 @@
+pane	email	1	:..rialDay_Sales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..rialDay_Sales	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_NonSales	0	zsh	:
+pane	main	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+pane	vwcom-3657	1	:..Summary/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch	1	zsh	:
+pane	vwcom-3657	1	:..Summary/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3657-JettaBuilderSummary/vwcom	0	zsh	:
+pane	vwcom-3657	1	:..Summary/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	0	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	1	zsh	:
+pane	vwcom-3722	1	:..tLaunch/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3722-FinancialService-PostLaunch/vwcom	0	zsh	:
+window	email	1	1	:*	8d11,70x53,0,0[70x27,0,0,2,70x25,0,28,3]
+window	main	1	1	:*	b421,70x53,0,0,4
+window	vwcom-3593	1	1	:*	7737,70x53,0,0[70x26,0,0,7,70x12,0,27,8,70x13,0,40,9]
+window	vwcom-3657	1	1	:*	4f47,70x53,0,0[70x25,0,0,10,70x13,0,26,11,70x13,0,40,12]
+window	vwcom-3722	1	1	:*	4b86,70x53,0,0[70x25,0,0,16,70x13,0,26,17,70x13,0,40,18]
+state	email	

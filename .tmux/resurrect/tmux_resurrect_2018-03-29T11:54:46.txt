@@ -1,0 +1,11 @@
+pane	3608	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3608-SSE-AprilGeneric/vwcom-master	1	zsh	:
+pane	3608	1	:../vwcom-master	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3608-SSE-AprilGeneric/vwcom-master	0	zsh	:
+pane	3608	1	:../vwcom-master	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	ipad-events-app	1	:..app-ionic/app	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/app	1	zsh	:
+pane	main	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	vw-ea	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	3608	1	1	:*	8c0f,70x53,0,0[70x21,0,0,6,70x12,0,22,8,70x18,0,35,7]
+window	ipad-events-app	1	1	:*	b41f,70x53,0,0,2
+window	main	1	1	:*	bd01,166x53,0,0,4
+window	vw-ea	1	1	:*	b422,70x53,0,0,5
+state	3608	

@@ -1,0 +1,9 @@
+pane	advancedrr	1	:..SimpleStarter	1	:*	1	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	1	zsh	:
+pane	advancedrr	1	:..SimpleStarter	1	:*	2	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	0	zsh	:
+pane	email	1	:~	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	0	zsh	:
+pane	email	1	:~	1	:*	2	:/Users/andrew.kil	1	zsh	:
+pane	main	1	:..gineLearnMore	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	1	zsh	:
+window	advancedrr	1	1	:*	f448,70x53,0,0[70x26,0,0,13,70x26,0,27,14]
+window	email	1	1	:*	0d0d,70x53,0,0[70x27,0,0,1,70x25,0,28,2]
+window	main	1	1	:*	b420,70x53,0,0,3
+state	advancedrr	

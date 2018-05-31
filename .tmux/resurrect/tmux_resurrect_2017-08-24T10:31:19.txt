@@ -1,0 +1,21 @@
+pane	ak	1	:..ancedrr/arr-1	1	:*	1	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	1	zsh	:
+pane	ak	1	:..ancedrr/arr-1	1	:*	2	:/Users/andrew.kil/Desktop/ak/advancedrr/arr-1	0	zsh	:
+pane	base	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	3	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	ddc	1	:gulp	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch.com	0	zsh	:
+pane	ddc	1	:gulp	1	:*	2	:/Users/andrew.kil/Documents/Projects/deutsch.com/deutsch	1	node	:gulp 
+pane	ddc	1	:gulp	1	:*	3	:/Users/andrew.kil/Documents/Projects/deutsch.com/stack	0	zsh	:
+pane	ff	1	:..s/fosterfarms	1	:*	1	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	1	zsh	:
+pane	ff	1	:..s/fosterfarms	1	:*	2	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	bash	:bash -l
+pane	ff	1	:..s/fosterfarms	1	:*	3	:/Users/andrew.kil/Documents/Projects/FosterFarms/fosterfarms	0	zsh	:
+pane	hl	1	:..helpful-links	1	:*	1	:/Users/andrew.kil/Documents/Projects/Deutsch-HelpfulLinks/deutsch-helpful-links	1	zsh	:
+pane	hl	1	:..helpful-links	1	:*	2	:/Users/andrew.kil/Documents/Projects/Deutsch-HelpfulLinks/deutsch-helpful-links	0	zsh	:
+window	ak	1	1	:*	60c9,70x53,0,0[70x25,0,0,13,70x27,0,26,15]
+window	base	1	1	:*	5a46,70x53,0,0,17
+window	cmab	1	1	:*	ef16,70x53,0,0[70x26,0,0,18,70x13,0,27,19,70x12,0,41,20]
+window	ddc	1	1	:*	ecc2,46x53,0,0[46x22,0,0,3,46x15,0,23,4,46x14,0,39,5]
+window	ff	1	1	:*	1d38,70x53,0,0[70x26,0,0,0,70x13,0,27,1,70x12,0,41,2]
+window	hl	1	1	:*	3445,70x53,0,0[70x26,0,0,21,70x26,0,27,22]
+state	ddc	hl

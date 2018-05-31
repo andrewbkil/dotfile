@@ -1,0 +1,37 @@
+{
+  "remoteParents": {
+    "githubEnterprise": {
+      "Deutschla": {
+        "foster-poultry-farms-wordpress-fork": {
+          "hostingServiceType": "github",
+          "owner": "FosterPoultryFarms",
+          "name": "wordpress"
+        },
+        "cmab_rebuild": {
+          "hostingServiceType": "github",
+          "owner": "Deutschla",
+          "name": "cmab_rebuild"
+        }
+      }
+    }
+  },
+  "collapsedBranchFolders": [
+    "LOCAL-bug",
+    "REMOTEorigin-release",
+    "LOCAL-hotfix"
+  ],
+  "collapsedSections": [
+    "STASHES",
+    "TAGS"
+  ],
+  "collapsedRemotes": [],
+  "leftPanelQuery": "",
+  "upstreamFrecencyMetadata": {
+    "origin": {
+      "timestamps": [
+        1497310726045
+      ],
+      "total": 1
+    }
+  }
+}

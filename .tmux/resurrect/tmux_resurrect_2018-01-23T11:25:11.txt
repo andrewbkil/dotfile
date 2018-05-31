@@ -1,0 +1,3 @@
+pane	grid	1	:..p/ak/css-grid	1	:*	1	:/Users/andrew.kil/Desktop/ak/css-grid	1	zsh	:
+window	grid	1	1	:*	b01d,70x52,0,0,0
+state	grid	

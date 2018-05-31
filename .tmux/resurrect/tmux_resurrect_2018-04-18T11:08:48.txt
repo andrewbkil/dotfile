@@ -1,0 +1,11 @@
+pane	cq-packages	1	:..es/vwcom-3640	1	:*	1	:/Users/andrew.kil/Documents/Projects/cq-packages/vwcom-3640	1	zsh	:
+pane	email	1	:..rialDay_Sales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..rialDay_Sales	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_NonSales	0	zsh	:
+pane	main	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	cq-packages	1	1	:*	b29e,52x43,0,0,1
+window	email	1	1	:*	5e11,70x53,0,0[70x26,0,0,2,70x26,0,27,3]
+window	main	1	1	:*	b421,70x53,0,0,4
+window	vw-ea	1	1	:*	6b3c,52x43,0,0[52x21,0,0,5,52x21,0,22,6]
+state	email	

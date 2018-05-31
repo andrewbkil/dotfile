@@ -1,0 +1,5 @@
+pane	cmab	1	:gulp	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:gulp	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	node	:gulp 
+pane	cmab	1	:gulp	1	:*	3	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	docker-compose	:docker-compose up
+window	cmab	1	1	:*	4438,70x53,0,0[70x26,0,0,0,70x14,0,27,1,70x11,0,42,2]
+state	cmab	

@@ -1,0 +1,19 @@
+pane	3775	1	:..s/VWCOM/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	0	zsh	:
+pane	3775	1	:..s/VWCOM/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	0	zsh	:
+pane	3775	1	:..s/VWCOM/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+pane	3777	1	:..s/VWCOM/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	1	zsh	:
+pane	3777	1	:..s/VWCOM/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/vwcom	0	sh	:sh ./faster.sh .
+pane	3777	1	:..s/VWCOM/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	advancedrr	1	:..SimpleStarter	1	:*	1	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	1	zsh	:
+pane	advancedrr	1	:..SimpleStarter	1	:*	2	:/Users/andrew.kil/Desktop/ak/AdvancedRnR/ReduxSimpleStarter	0	zsh	:
+pane	bolt	1	:..olt-challenge	1	:*	1	:/Users/andrew.kil/Desktop/ak/bolt-challenge	1	zsh	:
+pane	email	1	:..rialDay_Sales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..rialDay_Sales	1	:*	2	:/Users/andrew.kil	0	zsh	:
+pane	main	1	:..rojects/VWCOM	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM	1	zsh	:
+window	3775	1	1	:*	c847,52x43,0,0[52x22,0,0,1,52x10,0,23,2,52x9,0,34,3]
+window	3777	1	1	:*	8589,70x51,0,0[70x25,0,0,4,70x12,0,26,5,70x12,0,39,6]
+window	advancedrr	1	1	:*	6b45,52x43,0,0[52x21,0,0,7,52x21,0,22,8]
+window	bolt	1	1	:*	5a41,70x53,0,0,12
+window	email	1	1	:*	c6dc,70x53,0,0[70x27,0,0,9,70x25,0,28,10]
+window	main	1	1	:*	5a40,70x53,0,0,11
+state	bolt	

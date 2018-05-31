@@ -1,0 +1,13 @@
+pane	deutsch-hl	1	:yarn	1	:*	1	:/Users/andrew.kil/Documents/Projects/deutsch-hl/deutsch-helpful-links	1	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+pane	email	1	:..SETR-92-Jetta	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-92-Jetta	1	zsh	:
+pane	email	1	:..SETR-92-Jetta	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate	0	zsh	:
+pane	ipad-events-app	1	:..app-ionic/app	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/app	1	zsh	:
+pane	main	1	:..ents/Projects	1	:*	1	:/Users/andrew.kil/Documents/Projects	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+window	deutsch-hl	1	1	:*	5a3f,70x53,0,0,10
+window	email	1	1	:*	5e2c,70x53,0,0[70x26,0,0,8,70x26,0,27,9]
+window	ipad-events-app	1	1	:*	b421,70x53,0,0,4
+window	main	1	1	:*	b422,70x53,0,0,5
+window	vw-ea	1	1	:*	5e23,70x53,0,0[70x26,0,0,6,70x26,0,27,7]
+state	deutsch-hl	

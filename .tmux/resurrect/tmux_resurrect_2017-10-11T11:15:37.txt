@@ -1,0 +1,4 @@
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	1	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	0	zsh	:
+pane	cmab	1	:..cts/CMAB/cmab	1	:*	2	:/Users/andrew.kil/Documents/Projects/CMAB/cmab	1	zsh	:
+window	cmab	1	1	:*	158c,123x41,0,0[123x20,0,0,0,123x20,0,21,1]
+state	cmab	

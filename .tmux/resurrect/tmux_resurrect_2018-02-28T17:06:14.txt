@@ -1,0 +1,40 @@
+pane	0	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	10	1	:..s/thorn/email	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/email	1	zsh	:
+pane	11	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	12	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	13	1	:~/.ssh	1	:*	1	:/Users/andrew.kil/.ssh	1	zsh	:
+pane	14	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	15	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	16	1	:..s/vw-ipad-app	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app	1	zsh	:
+pane	17	1	:..1-SSE_Generic	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3461-SSE_Generic	1	zsh	:
+pane	18	1	:..1-SSE_Generic	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3461-SSE_Generic	1	zsh	:
+pane	19	1	:..app-ionic/src	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/src	1	zsh	:
+pane	6	1	:..s/thorn/email	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn/email	1	zsh	:
+pane	7	1	:..2980-JettaNCS	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS	1	zsh	:
+pane	8	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	9	1	:..helpful-links	1	:*	1	:/Users/andrew.kil/Documents/Projects/Deutsch-HelpfulLinks/deutsch-helpful-links	1	zsh	:
+pane	9	1	:..helpful-links	1	:*	2	:/Users/andrew.kil/Documents/Projects/VW.com	0	zsh	:
+pane	VWCOM-3271	1	:..w-ipad-events	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-events	1	zsh	:
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	warrantyMasthead	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+window	0	1	1	:*	b41e,70x53,0,0,1
+window	10	1	1	:*	b41f,70x53,0,0,2
+window	11	1	1	:*	b420,70x53,0,0,3
+window	12	1	1	:*	b421,70x53,0,0,4
+window	13	1	1	:*	b422,70x53,0,0,5
+window	14	1	1	:*	b423,70x53,0,0,6
+window	15	1	1	:*	b424,70x53,0,0,7
+window	16	1	1	:*	b425,70x53,0,0,8
+window	17	1	1	:*	b426,70x53,0,0,9
+window	18	1	1	:*	5a3f,70x53,0,0,10
+window	19	1	1	:*	5a40,70x53,0,0,11
+window	6	1	1	:*	5a41,70x53,0,0,12
+window	7	1	1	:*	5a42,70x53,0,0,13
+window	8	1	1	:*	5a43,70x53,0,0,14
+window	9	1	1	:*	f44d,70x53,0,0[70x26,0,0,15,70x26,0,27,16]
+window	VWCOM-3271	1	1	:*	5a46,70x53,0,0,17
+window	default	1	1	:*	5a47,70x53,0,0,18
+window	mobileVid	1	1	:*	5a48,70x53,0,0,19
+window	warrantyMasthead	1	1	:*	da3f,70x53,0,0,20
+state	19	warrantyMasthead

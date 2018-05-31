@@ -1,0 +1,6 @@
+pane	VWCOM-3531	1	:yarn	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3531-SSE_Offer	1	zsh	:
+pane	VWCOM-3531	1	:yarn	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3531-SSE_Offer	0	node	:node /usr/local/Cellar/yarn/1.3.2/libexec/bin/yarn.js start
+pane	default	1	:~/.tmux	1	:*	1	:/Users/andrew.kil/.tmux	1	zsh	:
+window	VWCOM-3531	1	1	:*	744a,70x53,0,0[70x26,0,0,32,70x26,0,27,36]
+window	default	1	1	:*	da48,70x53,0,0,29
+state	VWCOM-3531	

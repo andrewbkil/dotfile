@@ -1,0 +1,13 @@
+{
+  "remoteParents": {
+    "githubEnterprise": {
+      "Deutschla": {
+        "foster-poultry-farms-wordpress-fork": {
+          "hostingServiceType": "github",
+          "owner": "FosterPoultryFarms",
+          "name": "wordpress"
+        }
+      }
+    }
+  }
+}

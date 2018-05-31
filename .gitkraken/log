@@ -1,0 +1,49 @@
+{
+  "log": [
+    {
+      "actionName": "registration_action_check_for_eula_update",
+      "count": 1,
+      "totalMS": 5
+    },
+    {
+      "actionName": "refresh_action_refresh_repo",
+      "count": 3,
+      "totalMS": 0
+    },
+    {
+      "actionName": "app_settings_action_set",
+      "count": 4,
+      "totalMS": 0
+    },
+    {
+      "actionName": "git_config_action_refresh",
+      "count": 3,
+      "totalMS": 281
+    },
+    {
+      "actionName": "registration_action_phone_home",
+      "count": 1,
+      "totalMS": 309
+    },
+    {
+      "actionName": "hosting_service_action_get_ssh_key_info",
+      "count": 1,
+      "totalMS": 274
+    },
+    {
+      "actionName": "hosting_service_action_get_user",
+      "count": 1,
+      "totalMS": 370
+    },
+    {
+      "actionName": "hosting_service_action_refresh_hosting_service_data_via_api",
+      "count": 1,
+      "totalMS": 377
+    },
+    {
+      "actionName": "registration_action_check_password_strength",
+      "count": 1,
+      "totalMS": 3
+    }
+  ]
+}

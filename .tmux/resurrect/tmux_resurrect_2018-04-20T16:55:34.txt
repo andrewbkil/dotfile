@@ -1,0 +1,23 @@
+pane	cq-packages	1	:..es/vwcom-3640	1	:*	1	:/Users/andrew.kil/Documents/Projects/cq-packages/vwcom-3640	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_NonSales	0	zsh	:
+pane	main	1	:..Spanish/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3593-TopnavSpanish/vwcom	0	zsh	:
+pane	vwcom-3593	1	:..Spanish/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+pane	vwcom-3657	1	:cqfaster	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3657-JettaBuilderSummary/vwcom	0	zsh	:
+pane	vwcom-3657	1	:cqfaster	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3657-JettaBuilderSummary/vwcom	1	sh	:sh ./faster.sh .
+pane	vwcom-3657	1	:cqfaster	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	1	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	0	zsh	:
+pane	vwcom-3675	1	:..gineLearnMore	1	:*	3	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3675-RemoveEngineLearnMore	0	zsh	:
+window	cq-packages	1	1	:*	b41d,70x53,0,0,0
+window	email	1	1	:*	0d0d,70x53,0,0[70x27,0,0,1,70x25,0,28,2]
+window	main	1	1	:*	b420,70x53,0,0,3
+window	vw-ea	1	1	:*	8d1a,70x53,0,0[70x27,0,0,4,70x25,0,28,5]
+window	vwcom-3593	1	1	:*	9614,70x53,0,0[70x27,0,0,6,70x12,0,28,7,70x12,0,41,8]
+window	vwcom-3657	1	1	:*	1f24,70x43,0,0[70x22,0,0,12,70x10,0,23,13,70x9,0,34,14]
+window	vwcom-3675	1	1	:*	1b34,70x53,0,0[70x26,0,0,9,70x13,0,27,10,70x12,0,41,11]
+state	vwcom-3657	

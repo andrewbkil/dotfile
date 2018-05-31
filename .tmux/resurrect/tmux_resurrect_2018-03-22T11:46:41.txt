@@ -1,0 +1,5 @@
+pane	3	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW-CQ/crx-quickstart/bin	1	zsh	:
+pane	main	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+window	3	1	1	:*	b021,70x52,0,0,4
+window	main	1	1	:*	b01f,70x52,0,0,2
+state	3	

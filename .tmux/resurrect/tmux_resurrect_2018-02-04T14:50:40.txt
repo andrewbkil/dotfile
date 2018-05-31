@@ -1,0 +1,19 @@
+pane	0	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	3265	1	:..ds/VWCOM-3265	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	1	zsh	:
+pane	3265	1	:..ds/VWCOM-3265	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3265	0	zsh	:
+pane	5	1	:~	1	:*	1	:/Users/andrew.kil	1	zsh	:
+pane	default	1	:../vwcom-master	1	:*	1	:/Users/andrew.kil/Documents/Projects/VW.com/vwcom-master	1	zsh	:
+pane	grid	1	:..p/ak/css-grid	1	:*	1	:/Users/andrew.kil/Desktop/ak/css-grid	0	zsh	:
+pane	grid	1	:..p/ak/css-grid	1	:*	2	:/Users/andrew.kil/Desktop/ak/css-grid	0	zsh	:
+pane	grid	1	:..p/ak/css-grid	1	:*	3	:/Users/andrew.kil/Desktop/ak/css-grid	1	zsh	:
+pane	mobileVid	1	:..-mobileUpdate	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-2980-JettaNCS-mobileUpdate	1	zsh	:
+pane	thorn-email	1	:..ects/thorn/v1	1	:*	1	:/Users/andrew.kil/Documents/Projects/thorn	1	zsh	:
+pane	thorn-email	1	:..ects/thorn/v1	1	:*	2	:/Users/andrew.kil/Documents/Projects/thorn/v1	0	zsh	:
+window	0	1	1	:*	ac5d,61x51,0,0,0
+window	3265	1	1	:*	6114,61x51,0,0[61x22,0,0,1,61x28,0,23,2]
+window	5	1	1	:*	ac60,61x51,0,0,3
+window	default	1	1	:*	ac61,61x51,0,0,4
+window	grid	1	1	:*	6f3e,61x51,0,0[61x24,0,0,5,61x12,0,25,6,61x13,0,38,7]
+window	mobileVid	1	1	:*	ac65,61x51,0,0,8
+window	thorn-email	1	1	:*	7263,61x43,0,0[61x19,0,0,9,61x23,0,20,10]
+state	thorn-email	mobileVid

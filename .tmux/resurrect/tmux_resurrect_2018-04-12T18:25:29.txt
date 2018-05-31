@@ -1,0 +1,31 @@
+pane	cq-packages	1	:..es/vwcom-3640	1	:*	1	:/Users/andrew.kil/Documents/Projects/cq-packages/vwcom-3640	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_Sales	1	zsh	:
+pane	email	1	:..lDay_NonSales	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-emailTemplate/VASETR-91-MemorialDay_NonSales	0	zsh	:
+pane	ipad-events-app	1	:..app-ionic/app	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-ipad-app-ionic/app	1	zsh	:
+pane	main	1	:..SSE_Offer/dev	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-mastheads/VWCOM-3531-SSE_Offer/dev	1	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	1	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	0	zsh	:
+pane	vw-ea	1	:..trify-america	1	:*	2	:/Users/andrew.kil/Documents/Projects/vw-electrify-america/ea-electrify-america	1	zsh	:
+pane	vwcom-3618	1	:..re-VWCOM-3636	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3636-FinancialServicesMasthead/vwcom-feature-VWCOM-3636	1	zsh	:
+pane	vwcom-3636	1	:..asthead/vwcom	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3636-FinancialServicesMasthead/vwcom	1	zsh	:
+pane	vwcom-3636	1	:..asthead/vwcom	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3636-FinancialServicesMasthead/vwcom	0	zsh	:
+pane	vwcom-3636	1	:..asthead/vwcom	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3639	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3636-FinancialServicesMasthead/vwcom-feature-VWCOM-3636	0	zsh	:
+pane	vwcom-3639	1	:..uickstart/bin	1	:*	2	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3639	1	:..uickstart/bin	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+pane	vwcom-3640	1	:git	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3640-HP-Update-Electric-Concepts/vwcom	0	zsh	:
+pane	vwcom-3640	1	:git	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3640-HP-Update-Electric-Concepts/vwcom	1	git	:/Applications/Xcode.app/Contents/Developer/usr/bin/git log
+pane	vwcom-3640	1	:git	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	0	zsh	:
+pane	vwcom-3649	1	:..uickstart/bin	1	:*	1	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3649-SSE-April-Offer/vwcom	0	zsh	:
+pane	vwcom-3649	1	:..uickstart/bin	1	:*	2	:/Users/andrew.kil/Documents/Projects/VWCOM/VWCOM-3649-SSE-April-Offer/vwcom	0	zsh	:
+pane	vwcom-3649	1	:..uickstart/bin	1	:*	3	:/Users/andrew.kil/Documents/Projects/vwcq/crx-quickstart/bin	1	zsh	:
+window	cq-packages	1	1	:*	d960,80x24,0,0,21
+window	email	1	1	:*	de0c,70x53,0,0[70x26,0,0,1,70x26,0,27,2]
+window	ipad-events-app	1	1	:*	b420,70x53,0,0,3
+window	main	1	1	:*	b261,80x24,0,0,4
+window	vw-ea	1	1	:*	de1e,70x53,0,0[70x26,0,0,5,70x26,0,27,6]
+window	vwcom-3618	1	1	:*	b424,70x53,0,0,7
+window	vwcom-3636	1	1	:*	c3f0,70x53,0,0[70x24,0,0,8,70x14,0,25,9,70x13,0,40,10]
+window	vwcom-3639	1	1	:*	08d3,70x53,0,0[70x18,0,0,11,70x17,0,19,12,70x16,0,37,13]
+window	vwcom-3640	1	1	:*	5f8a,70x43,0,0[70x22,0,0,17,70x10,0,23,19,70x9,0,34,20]
+window	vwcom-3649	1	1	:*	9530,70x53,0,0[70x13,0,0,14,70x16,0,14,15,70x22,0,31,16]
+state	vwcom-3640	
